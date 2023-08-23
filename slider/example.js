@@ -4,3 +4,4 @@ let myFirstFunction = (name, greeting) => {
 
 myFirstFunction('Monika', 'Hej');
 myFirstFunction('Jan', 'Dzień dobry');
+
